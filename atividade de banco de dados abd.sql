@@ -1,5 +1,5 @@
 
-create TABLE abd;
+create database abd;
 use abd;
 
 create table tipo_campo(
