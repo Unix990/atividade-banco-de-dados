@@ -58,7 +58,7 @@ create table tipo_campo(
       
       
       
-      INSERT INTO tipocampo (tip_cod,tip_desc)VALUES
+      INSERT INTO tipo_campo (tip_cod,tip_desc)VALUES
       
       (1,'futebol'),
       (2,'basquete'),
